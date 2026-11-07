@@ -15,6 +15,7 @@ Construyo aplicaciones web, herramientas en Python y agentes de inteligencia art
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -26,6 +27,7 @@ Construyo aplicaciones web, herramientas en Python y agentes de inteligencia art
 | Proyecto | Descripción | Description |
 |---|---|---|
 | [**face-recognizer**](https://github.com/martinezmarianotea-code/face-recognizer) | Registro y reconocimiento facial local con MediaPipe y OpenCV, con interfaz web, de escritorio y CLI. | Local face registration and recognition with MediaPipe and OpenCV, with web, desktop and CLI interfaces. |
+| [**OCR-Models**](https://github.com/martinezmarianotea-code/OCR-Models) | Compara tres motores OCR sobre recetas médicas y mide su error (CER/WER) contra una referencia. FastAPI + React. | Compares three OCR engines on medical prescriptions and measures their error (CER/WER) against a reference. FastAPI + React. |
 | [**Encriptacion_Java**](https://github.com/martinezmarianotea-code/Encriptacion_Java) | Cifrado Vigenère con alfabeto extendido e interfaz moderna en Java Swing. | Vigenère cipher with an extended alphabet and a modern Java Swing UI. |
 
 ### 💼 Trabajo con clientes · Client work
