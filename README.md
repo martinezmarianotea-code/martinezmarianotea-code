@@ -29,6 +29,7 @@ Construyo aplicaciones web, herramientas en Python y agentes de inteligencia art
 
 | Proyecto | Descripción | Description |
 |---|---|---|
+| [**seo-local-kit**](https://github.com/martinezmarianotea-code/seo-local-kit) · [demo](https://martinezmarianotea-code.github.io/seo-local-kit/) | Planificador de SEO local en el navegador: schema JSON-LD, análisis de Search Console, keywords, buyer personas, mapa semántico e informe. | Browser-based local SEO planner: JSON-LD schema, Search Console analysis, keywords, buyer personas, semantic map and report. |
 | [**face-recognizer**](https://github.com/martinezmarianotea-code/face-recognizer) | Registro y reconocimiento facial local con MediaPipe y OpenCV, con interfaz web, de escritorio y CLI. | Local face registration and recognition with MediaPipe and OpenCV, with web, desktop and CLI interfaces. |
 | [**OCR-Models**](https://github.com/martinezmarianotea-code/OCR-Models) | Compara tres motores OCR sobre recetas médicas y mide su error (CER/WER) contra una referencia. FastAPI + React. | Compares three OCR engines on medical prescriptions and measures their error (CER/WER) against a reference. FastAPI + React. |
 | [**BrazoRobot**](https://github.com/martinezmarianotea-code/BrazoRobot) | Brazo robótico con ESP32, servos SG90 y motor paso a paso, controlado desde una app Android por Bluetooth. Incluye firmware, app y guía de armado. | Robotic arm with an ESP32, SG90 servos and a stepper motor, controlled from an Android app over Bluetooth. Includes firmware, app and build guide. |
