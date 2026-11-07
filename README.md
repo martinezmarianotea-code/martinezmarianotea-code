@@ -11,6 +11,7 @@ Construyo aplicaciones web, herramientas en Python y agentes de inteligencia art
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
@@ -19,6 +20,8 @@ Construyo aplicaciones web, herramientas en Python y agentes de inteligencia art
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
@@ -28,6 +31,7 @@ Construyo aplicaciones web, herramientas en Python y agentes de inteligencia art
 |---|---|---|
 | [**face-recognizer**](https://github.com/martinezmarianotea-code/face-recognizer) | Registro y reconocimiento facial local con MediaPipe y OpenCV, con interfaz web, de escritorio y CLI. | Local face registration and recognition with MediaPipe and OpenCV, with web, desktop and CLI interfaces. |
 | [**OCR-Models**](https://github.com/martinezmarianotea-code/OCR-Models) | Compara tres motores OCR sobre recetas médicas y mide su error (CER/WER) contra una referencia. FastAPI + React. | Compares three OCR engines on medical prescriptions and measures their error (CER/WER) against a reference. FastAPI + React. |
+| [**BrazoRobot**](https://github.com/martinezmarianotea-code/BrazoRobot) | Brazo robótico con ESP32, servos SG90 y motor paso a paso, controlado desde una app Android por Bluetooth. Incluye firmware, app y guía de armado. | Robotic arm with an ESP32, SG90 servos and a stepper motor, controlled from an Android app over Bluetooth. Includes firmware, app and build guide. |
 | [**Encriptacion_Java**](https://github.com/martinezmarianotea-code/Encriptacion_Java) | Cifrado Vigenère con alfabeto extendido e interfaz moderna en Java Swing. | Vigenère cipher with an extended alphabet and a modern Java Swing UI. |
 
 ### 💼 Trabajo con clientes · Client work
